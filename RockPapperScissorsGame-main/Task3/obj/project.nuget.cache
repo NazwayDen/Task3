@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kFTMxbnY+0q4Yj6vuMGCJkJXCw84b5B0i6NnS77me+kJ5K9btQZD/ihluC3IpsSMZkCxmyOIjAq1rAYVuGc1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\99\\source\\repos\\RockPapperScissorsGame-main\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\99\\.nuget\\packages\\bouncycastle.netcore\\1.8.8\\bouncycastle.netcore.1.8.8.nupkg.sha512"
+  ],
+  "logs": []
+}
